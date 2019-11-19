@@ -5,7 +5,7 @@ Este desafio tem por objetivo avaliar seus conhecimentos em C#.
 Neste desafio deverá ser criado um sistema simples onde poderemos cadastrar as aplicações, em que cliente está instalado e em que versão.
 Também será possível registrar um log de quando foi executada a aplicação.
 
-Crie uma aplicação web usando Asp.Net Mvc ou WebApi em C#, onde terão as seguintes tabelas.
+Crie uma aplicação web usando Asp.Net Mvc ou WebApi em C#, onde terão as seguintes tabelas no MySql.
 
 
 |  **Servico** |
